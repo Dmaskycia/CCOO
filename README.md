@@ -63,7 +63,7 @@
     <div class="logo">
         <img src="Screenshot_20240305_164253_Word.jpg" alt="Logo">
     </div>
-    <h1>Calculadora de Puntuación para Opositores</h1>
+    <h1>Calculadora de Puntuación para Opositores C2</h1>
     <form id="calculatorForm">
         <label for="correct1">Aciertos en la primera parte (50 preguntas):</label>
         <input type="number" id="correct1" required><br>
