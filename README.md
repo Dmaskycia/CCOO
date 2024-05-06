@@ -62,7 +62,7 @@
     <div class="logo">
         <img src="305882583_548221643771156_742996996962679323_n.jpg" alt="Logo">
     </div>
-    <h1>Calculadora de Puntuación para Opositores C2 esta simulacion puede contener errores y no tiene valor documental</h1>
+    <h1>Calculadora de Puntuación para Opositores C2 Estabilización,  esta simulacion puede contener errores y no tiene valor documental</h1>
     <form id="calculatorForm">
         <label for="correct1">Aciertos en la primera parte (50 preguntas):</label>
         <input type="number" id="correct1" required><br>
