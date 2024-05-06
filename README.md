@@ -60,7 +60,7 @@
 </head>
 <body>
     <div class="logo">
-        <img src="Screenshot_20240305_164253_Word.jpg" alt="Logo">
+        <img src="305882583_548221643771156_742996996962679323_n.jpg" alt="Logo">
     </div>
     <h1>Calculadora de Puntuación para Opositores C2</h1>
     <form id="calculatorForm">
